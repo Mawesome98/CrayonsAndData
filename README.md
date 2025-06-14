@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Crayons and Data</title>
+</head>
+<body>
+    <h1>Welcome to Crayons and Data!</h1>
+    <p>This is a basic webpage hosted on GitHub Pages.</p>
+</body>
+</html>
